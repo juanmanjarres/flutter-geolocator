@@ -22,6 +22,7 @@ dependencies:
     git:
       url: git://github.com/juanmanjarres/flutter-geolocator.git
       path: geolocator_platform_interface
+      ref: stable
   
 dev_dependencies:
   flutter_test:
